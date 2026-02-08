@@ -1,1 +1,1 @@
-
+The dataset contains 1,000 housing records with numerical features such as square footage, number of bedrooms and bathrooms, year built, lot size, garage size, and neighborhood quality. The target variable is house price, which is a continuous value. Therefore, the machine learning task is a regression problem. A Linear Regression model is used to learn the relationship between the housing features and house prices and to predict house prices for unseen data.
